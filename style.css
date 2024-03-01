@@ -1,0 +1,17 @@
+.hero-image {
+    background-image: url('imgs/hero_image.jpg');
+    background-size: cover;
+    height: 100vh; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    background-position: center;
+    background-color: purple;
+    background-blend-mode: color-burn;
+  }
+  .hero-heading {
+    font-size: 3rem;
+    font-weight: bold;}
+    

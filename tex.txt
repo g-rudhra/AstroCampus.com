@@ -1,0 +1,6 @@
+/* CSS HEX */
+--navy-blue: #000080ff;
+--magnolia: #F5F1FBff;
+--chrysler-blue: #5C27C6ff;
+--navy-blue-2: #000080ff;
+--black: #000000ff;
